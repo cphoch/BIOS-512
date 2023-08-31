@@ -1,0 +1,27 @@
+# Heading
+## Subheading
+
+Bulleted list:
+- 1
+- 2
+- 3
+
+Numbered list:
+1. 1
+2. 2
+3. 3
+
+> This
+> is
+> a
+> blockquote.
+
+![Old Well](https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_411,q_75,w_620/https://assets.dam.simpleviewinc.com/asset/618162ebe6e035006b34c6e0)
+
+`
+variable_name
+`
+
+```r
+library('ggplot2')
+```
